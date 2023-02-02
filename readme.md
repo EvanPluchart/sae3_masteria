@@ -2,10 +2,10 @@
 
 ## Membres du projet :
 
-- LEMONT Gaétan, `lemo0037`
+- XXXX Gaétan
 - PLUCHART Evan, `pluc0003`
-- ROBION Alban, `robi0082`
-- LAIDIE Lucie, `laid0003`
+- XXXX Alban
+- XXXX Lucie
 
 ____
 
